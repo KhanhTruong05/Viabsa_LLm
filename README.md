@@ -79,5 +79,3 @@ Open `Model.ipynb` in Google Colab (or any GPU server):
 - Load the model, attach the LoRA adapters, and train.
 - Run the evaluation cell (`calculate_metrics_optimized`) to compute the final micro and macro F1 scores using our post-processing logic.
 
-### 5. Inference Demo
-Open `DEMO.ipynb` to load the saved LoRA adapter from `trained_model/` and run interactive inference on custom Vietnamese review sentences without retraining.
